@@ -1,6 +1,6 @@
 
 ---
-name: Organization Test Agent
+name: Organization Test Agent2
 description: Shared organization agent for testing the Customizations dialog.
 ---
 
